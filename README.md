@@ -1,4 +1,4 @@
-# 👋 Hola, soy VicProgram
+# 👋 Hola, soy Victor!
 
 Estudiante de **42 Madrid**. Me muevo entre el código de bajo nivel en **C**, el desarrollo en **Python**, Android con **Kotlin** y algún que otro backend.
 
