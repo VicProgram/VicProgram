@@ -41,7 +41,3 @@ Me gusta entender cómo funcionan las cosas por dentro: desde una `libft` o un `
 </p>
 
 ---
-
-<p align="center">
-  <i>“Primero hazlo funcionar, luego hazlo bien.”</i>
-</p>
