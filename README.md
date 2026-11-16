@@ -1,4 +1,4 @@
-# 👋 Hola, soy Victor!
+# Hola, soy Victor!
 
 Estudiante de **42 Madrid**. Me muevo entre el código de bajo nivel en **C**, el desarrollo en **Python**, Android con **Kotlin** y algún que otro backend.
 
@@ -19,7 +19,7 @@ Me gusta entender cómo funcionan las cosas por dentro: desde una `libft` o un `
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
@@ -33,7 +33,7 @@ Me gusta entender cómo funcionan las cosas por dentro: desde una `libft` o un `
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VicProgram&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de VicProgram" />
